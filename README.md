@@ -64,9 +64,10 @@
 ###
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgujar1&bg_color=000000&color=ffffff&line=ffffff&point=888888&area=false&hide_border=true"
-    alt="Minimal activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgujar1&bg_color=0d1117&color=bb86fc&line=bb86fc&point=03dac6&area=true&hide_border=true"
+    alt="Purple data activity graph"
   />
 </p>
+
 
 ###
