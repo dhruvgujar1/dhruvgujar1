@@ -64,10 +64,11 @@
 ###
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgujar1&bg_color=0d1117&color=bb86fc&line=bb86fc&point=03dac6&area=true&hide_border=true"
-    alt="Purple data activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgujar1&bg_color=0d1117&color=00ff9c&line=00ff9c&point=39ff14&area=true&hide_border=true"
+    alt="Neon activity graph"
   />
 </p>
+
 
 
 ###
