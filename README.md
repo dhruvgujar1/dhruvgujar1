@@ -64,10 +64,9 @@
 ###
 <p align="center">
   <img
-    src="https://github.com/abozanona/pacman-contribution-graph/raw/main/pacman-contribution-graph.svg"
-    alt="Pacman contribution graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgujar1&bg_color=000000&color=ffe600&line=ffffff&point=00ff00&area=false&hide_border=true"
+    alt="Pacman style activity graph"
   />
 </p>
-
 
 ###
