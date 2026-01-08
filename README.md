@@ -63,10 +63,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvgujar1/dhruvgujar1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvgujar1/dhruvgujar1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhruvgujar1/dhruvgujar1/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgujar1&bg_color=000000&color=ffffff&line=ffffff&point=00ff00&hide_border=true"
+    alt="Pacman contribution graph"
+  />
+</p>
+
 
 ###
