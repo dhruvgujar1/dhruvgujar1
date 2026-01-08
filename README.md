@@ -64,9 +64,10 @@
 ###
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/pacman-contribution-graph.svg"
+    src="https://github.com/abozanona/pacman-contribution-graph/raw/main/pacman-contribution-graph.svg"
     alt="Pacman contribution graph"
   />
 </p>
+
 
 ###
