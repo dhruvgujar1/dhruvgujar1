@@ -63,7 +63,6 @@
 
 ###
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/dhruvgujar1/output/snake.svg)
-
+<img src="https://raw.githubusercontent.com/dhruvgujar1/dhruvgujar1/output/snake.svg" alt="Snake animation" />
 
 ###
