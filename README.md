@@ -62,13 +62,11 @@
 </div>
 
 ###
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgujar1&bg_color=000000&color=ffffff&line=ffffff&point=00ff00&hide_border=true"
-    alt="Pacman contribution graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgujar1&bg_color=0d1117&color=00ff9c&line=00ff9c&point=39ff14&area=true&hide_border=true"
+    alt="Neon activity graph"
   />
 </p>
-
 
 ###
